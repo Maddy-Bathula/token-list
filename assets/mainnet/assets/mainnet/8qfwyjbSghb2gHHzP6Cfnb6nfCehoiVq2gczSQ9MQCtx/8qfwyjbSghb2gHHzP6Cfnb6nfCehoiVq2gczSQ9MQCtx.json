@@ -1,0 +1,15 @@
+{
+  "chainId": 101,
+  "address": "8qfwyjbSghb2gHHzP6Cfnb6nfCehoiVq2gczSQ9MQCtx",
+  "symbol": "SSTAR",
+  "name": "SHOOTING STAR",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/Maddy-Bathula/SSTAR-token-logo/main/SSTAR%20FINAL%20LOGO.png",
+  "tags": ["meme", "community", "solana"],
+  "extensions": {
+    "website": "https://x.com/SSTARcoin_",
+    "description": "From wishing on stars to wishing on coins — the crypto journey has gone galactic, fueled by community and luck to unite stargazers of the blockchain.",
+    "createdOn": "https://slerf.tools",
+    "createdOnName": "SlerfTools"
+  }
+}
